@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Sarthak Gangwar</h1>
+Hi 👋, I'm Sarthak Gangwar
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 - 🌱 I’m currently learning **Data Science**
